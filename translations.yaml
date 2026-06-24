@@ -1,0 +1,730 @@
+translations:
+  app:
+    name:
+      es: "ErgoKawsay"
+      kichwa: "ErgoKawsay"
+    tagline:
+      es: "Bienestar y salud intercultural"
+      kichwa: "Alli kawsay, allí kana"
+
+  language_selection:
+    title:
+      es: "ELIGE TU IDIOMA"
+      kichwa: "KIKIN SHIMITA AKLLAPAY"
+    spanish:
+      es: "Español"
+      kichwa: "Español"
+    kichwa:
+      es: "Kichwa"
+      kichwa: "Kichwa"
+    continue_spanish:
+      es: "Continuar en español"
+      kichwa: "Kichwapi katipay"
+
+  greetings:
+    welcome:
+      es: "Bienvenida"
+      kichwa: "Alli shamushka"
+    good_morning:
+      es: "Buenos días"
+      kichwa: "Alli puncha"
+    good_afternoon:
+      es: "Buenas tardes"
+      kichwa: "Alli chishi"
+    good_evening:
+      es: "Buenas noches"
+      kichwa: "Alli tuta"
+    wellbeing_starts_today:
+      es: "Tu bienestar empieza HOY"
+      kichwa: "Kikinpa allí kawsayka, kunanmi kallarin."
+
+  modules:
+    title:
+      es: "Módulos"
+      kichwa: "Tantachishkayachay / tantachiyachay"
+    ergonomics:
+      es: "Ergonomía"
+      kichwa: "Allillamkayachay"
+    teacher_ergonomics:
+      es: "Ergonomía Docente"
+      kichwa: "Yachachikpa allillamkayachay"
+
+  ergonomics:
+    principles_title:
+      es: "Principios básicos para tu trabajo diario"
+      kichwa: "Tukuy puncha kikin llamkaypak paktaykuna"
+    what_is_title:
+      es: "¿Qué es la ergonomía?"
+      kichwa: "Allillamkayachay imatak kan"
+    what_is_desc:
+      es: "Ciencia que adapta el trabajo a las personas para proteger su salud y bienestar."
+      kichwa: "Runakuna llamkaypi allí kachun. Shinallatak, nima unkuy hapichun. Ashtawanka allí kawsayta charichun."
+    repetitive_movements_title:
+      es: "Movimientos repetitivos"
+      kichwa: "Kutin kutin kuyuriykuna"
+    repetitive_movements_desc:
+      es: "Acciones laborales repetidas, como escribir, teclear o calificar, que pueden causar dolor y lesiones musculares con el tiempo."
+      kichwa: "Llamkaypi kutin kutin kuyuriy, killkanapi, ruraykunata rikuypi, pacha yallikpika runa aychapi anchayarishka nanaypash rikurin."
+
+  physical_causes:
+    title:
+      es: "Causas físicas por movimiento repetitivos"
+      kichwa: "Kutin kutin kuyuriymanta ukku wakllirin"
+    blackboard:
+      es: "Pizarra: Elevar los brazos frecuentemente provocan fatiga en hombros y cuello."
+      kichwa: "Killkanapirka: Kutin kutin rikrakunata hawaman wichiyachinaka, wamanita, kunkatapash shaykuchin."
+    keyboard_mouse:
+      es: "Teclado y ratón: Ciclos rápidos al preparar clases y calificar, sobrecargan manos y muñecas."
+      kichwa: "Killkay ukuchapash: Yachachinapak yuyariy ñanta killkanapak, mashna yachachishkata yachakchayanapak llamkashpaka yallitak makikunata wakllichin."
+    static_posture:
+      es: "Posturas estáticas: permanecer de pie por largas horas afecta la zona lumbar."
+      kichwa: "Shayashkalla kana: Yalli shayashkalla llamkashpaka washachupatullu kuskatami wakllichin."
+    touchscreen:
+      es: "Dispositivos táctiles: Uso constantemente de teléfonos o tabletas causa fatiga en dedos y manos."
+      kichwa: "Karuyari, antakillkay: Kaykunata yallitak ushakpika, rukakunata, makikunatapash shaykuchin."
+
+  affected_zones:
+    title:
+      es: "Zonas más afectadas"
+      kichwa: "Runa kuskakuna yallitak wakllirin"
+    neck:
+      es: "Cuello"
+      kichwa: "Kunka"
+    shoulders:
+      es: "Hombros"
+      kichwa: "Wamanikuna"
+    lower_back:
+      es: "Zona lumbar"
+      kichwa: "Washachupatullu kuska"
+    wrists:
+      es: "Muñecas"
+      kichwa: "makimukukuna"
+    upper_back:
+      es: "Espalda alta"
+      kichwa: "Hawa washa"
+    legs:
+      es: "Piernas"
+      kichwa: "Chankakuna"
+
+  workstation:
+    title:
+      es: "El puesto de corrección"
+      kichwa: "Allí rurashkakunata rikuna kuska"
+    desc:
+      es: "Tu escritorio debe ser cómodo y adecuado para las horas de corrección y planificación."
+      kichwa: "Yachakukkunapa yachashkata rikunapak, yachay ñanta ruranapak, kikinpa patakuka may allimi kana kan."
+    chair:
+      es: "La silla: Ajustable en altura, con buen soporte lumbar; pies apoyados en el suelo, rodillas a 90°."
+      kichwa: "Tiyarina: Tiyarinalla tupu, washa tankarinalla, chakikuna pampapi churana, kunkuri sampi alli kana."
+    desk:
+      es: "La mesa: Antebrazos apoyados con hombros relajados (codos a 90°)."
+      kichwa: "Pataku: Washa rikrakuna, wamanikunapi allí kana."
+    laptop:
+      es: "Laptop: elevar la pantalla a la altura de los ojos y usar teclado y ratón externos."
+      kichwa: "Antaniki: Rikuchikta rikuna kuskapi churana, shinallatak chikan ukuchata, killkanatapash ushana."
+    lighting:
+      es: "Iluminación: Evitar reflejos en pantalla; la luz debe provenir de un lado."
+      kichwa: "Achiy: Rikunapi mana yalli achik tiyana kan. Achikka shuk kuskamantallami kana kan."
+    key_fact:
+      es: "Según la OMS, aproximadamente 1.710 millones de personas padecen alguna condición musculoesquelética, siendo el dolor lumbar la principal causa de ausentismo laboral en 160 países (OMS, 2022)."
+      kichwa: "(OMS) tantanakuymanta nikun. \"1.710 hunu runakunami, llamkaymanta aychatullu nanayta charin. Ashtawanka, ukku washa nanaymanta llamkak runakunami llamkayman mana chayankuna. Kaytaka, 160 mamallaktapimi yachakchayashka nin (OMS, 2022)."
+
+  diseases:
+    title:
+      es: "ENFERMEDADES"
+      kichwa: "UNKUYKUNA"
+    musculoskeletal_title:
+      es: "Trastornos musculoesqueléticos"
+      kichwa: "Ukkupa aychatullukunapi, anchayay unkuypash"
+    carpal_tunnel_title:
+      es: "Síndrome del túnel carpiano"
+      kichwa: "Maki rukakunapa mukukuna anchayay, nanaypash"
+    carpal_tunnel_desc:
+      es: "Comprensión del nervio de la muñeca que causa hormigueo, dolor y debilidad."
+      kichwa: "Maki rukakunapa mukukuna anchayay, nanaymantapash yachakchayay."
+    carpal_tunnel_cause:
+      es: "Causa: uso repetitivo de teclado y ratón."
+      kichwa: "Imamanta: Killkanata, ukuchata yalli ushashkamanta."
+    carpal_tunnel_warning:
+      es: "Señal de alerta: Hormigueo persistente, dificultad para sujetar objetos."
+      kichwa: "Imapi rikunchik: Kkutin kutin shikshin, anchayan, maki imatapash mana allita hapin."
+    tendinitis_title:
+      es: "Tendinitis de hombro"
+      kichwa: "Wamanipa muku punkiy nanay"
+    tendinitis_desc:
+      es: "Inflamación de los tendones por elevar repetidamente los brazos."
+      kichwa: "Wamanita yalli hawaman llamkaypi ushashpaka, wamanipa muku punkin nananpash."
+    tendinitis_cause:
+      es: "Causa: escribir frecuentemente en la pizarra."
+      kichwa: "Imamanta: Killkanapirkapi kutin kutin killkanamanta."
+    tendinitis_warning:
+      es: "Señal de alerta: Dolor por encima del nivel del hombro."
+      kichwa: "Imapi rikuchin: wamanipa hawapi nanay."
+    low_back_pain_title:
+      es: "Lumbalgia Crónica"
+      kichwa: "Washachupatullu unkuy"
+    low_back_pain_desc:
+      es: "Dolor en la parte baja de la espalda por permanecer mucho tiempo de pie o sentado. Afecta al 60% de los docentes."
+      kichwa: "Yachachik yalli pacha shayashpalla maypika tiyashpalla llamkashkamantami washachupatullu yalli nanayya kun. Shinami, 60% yachachikkunatami hapin."
+    low_back_pain_warning:
+      es: "Señal de alerta: dolor que se extiende a pierna o glúteos."
+      kichwa: "Imapi rikunchik: chankaman sikimanpash nanay hapin."
+    neck_pain_title:
+      es: "Cervicalgia"
+      kichwa: "Cervicalgia / kunka nanay"
+    neck_pain_desc:
+      es: "Dolor y rigidez en el cuello por mantener posturas forzadas frente a pantallas o al escribir en la pizarra con el cuello inclinado."
+      kichwa: "Killkanapi mana allí tiyarikpi, rikuchiypi mana allí kunkata charikpimi, yalli kunkatullu nanay hapin."
+    neck_pain_warning:
+      es: "Señal de alerta: Rigidez matutina, dolor de cabeza, mareos."
+      kichwa: "Kayta rikuy: machashkashina tukukpi, uma nanay, kunkatullu sinchiyashkatami rikuna."
+
+  see_doctor:
+    title:
+      es: "¿Cuándo consultar al médico?"
+      kichwa: "Hampikta imapachapitak tapuna"
+    reason_pain_weeks:
+      es: "Dolor por más de 2 semanas."
+      kichwa: "2 hunkay yalli nanay katikpi."
+    reason_tingling:
+      es: "Hormigueo o entumecimiento en manos o pies."
+      kichwa: "Chakikuna makikuna anchayakpi."
+    reason_weakness:
+      es: "Pérdida de fuerza en brazos o manos."
+      kichwa: "Rikrakuna makikunapash ña mana allí kakpi."
+
+  active_breaks:
+    title:
+      es: "PAUSAS ACTIVAS"
+      kichwa: "Llamkaypi samariy"
+    subtitle:
+      es: "Micro ejercicios breves durante tu jornada, ¡Vamos!"
+      kichwa: "Llamkay pachapi uchilla ruraykunata paktachina. ¡hakuychik!"
+    what_is_title:
+      es: "¿Qué son las pausas activas?"
+      kichwa: "Llamkay samariy imatak kan"
+    what_is_desc:
+      es: "Son pausas de 1 a 5 minutos con movimientos simples que reducen la tensión muscular y mental, ayudando a prevenir la fatiga y mejorar el bienestar."
+      kichwa: "1-5 chiniku pachapi llamkaymanta samariyta paktachina, allimanta kuyurishpa, runa ukku, umapash allí kachun, shina allí kawsayta paktachun."
+    sequence_title:
+      es: "Secuencia de 5 minutos"
+      kichwa: "5 chiniku kutin kutin"
+    neck_rotation:
+      es: "Rotación de cuello"
+      kichwa: "Kunkata muyuchiy"
+    neck_rotation_desc:
+      es: "Lento, 5 veces por lado (60 s)"
+      kichwa: "Allimanta, 5 kutin sapan kuskaman (60 chinilla)"
+    shoulder_elevation:
+      es: "Elevación de hombros"
+      kichwa: "Wamanikunata wichiyachiy"
+    shoulder_elevation_desc:
+      es: "Sube y baja, 10 veces (60 s)"
+      kichwa: "Wichiyachi uriyachipash, 10 kutin (60 chinilla)"
+    wrist_stretch:
+      es: "Estiramiento de muñecas"
+      kichwa: "Makimukukunata aysay"
+    wrist_stretch_desc:
+      es: "Flexión y extensión (60 s)"
+      kichwa: "Aysariy kachariypash (60 chinilla)"
+    lumbar_arch:
+      es: "Arco lumbar"
+      kichwa: "Washa kinku"
+    lumbar_arch_desc:
+      es: "Manos en cadera, arco suave (60 s)"
+      kichwa: "Makikunata kankikpi, allimanta winkuta paktachi (60 chinilla)"
+    deep_breathing:
+      es: "Respiración profunda"
+      kichwa: "Sinchi samay paktachiy"
+    deep_breathing_desc:
+      es: "Inhala 4 s. Pausa 4 s. Exhala 4 s (60 s)"
+      kichwa: "Aysay (4 chinilla) Kasiy (4 chinilla) Kachariy (4 chinilla) (60 chinilla)"
+    frequency:
+      es: "Frecuencia recomendada: Cada 1 a 2 horas durante tu jornada. No esperes a sentir dolor para hacerlas."
+      kichwa: "Mashna kutin paktachina: Llamkay pachapi, 1-2 sayllapi. Nanay hapichun mana shuyana kanki, paktachinami kanki."
+
+  exercises:
+    title:
+      es: "EJERCICIOS"
+      kichwa: "Kuyuykuna"
+    neck:
+      title:
+        es: "Cuello"
+        kichwa: "Kunka"
+      rotation_title:
+        es: "Rotación"
+        kichwa: "Muyuriy"
+      rotation_desc:
+        es: "Gira la cabeza a cada lado y mantén 5 segundos. Repite 5 veces (60 segundos)."
+        kichwa: "Umata alliman llukiman kuyuchi, 5 chinillata paktachi. 5 kutin paktachi (60 chinilla)."
+      flexion_title:
+        es: "Flexión anterior y posterior"
+        kichwa: "Ñawpakman washaman kumuna"
+      flexion_desc:
+        es: "Lleve el mentón al pecho, luego hacia atrás suavemente. Repite 8 veces (40 seg)."
+        kichwa: "Intiyunta kaskuman apay, shinallatak kipaka allimanta washamanpash. 8 kutin paktachi (40 chinilla)."
+      lateral_title:
+        es: "Inclinación lateral"
+        kichwa: "Kinrayakman kumuri"
+      lateral_desc:
+        es: "Inclina la oreja al hombro sin elevarlo. Mantén 10 segundos por lado. (30 segundos)."
+        kichwa: "Shayashkamanta mana hatarishpa rinrinta wamaniman kumuri. Shina 10 chinillata allí kuskaman paktachi, shinallatal llukimanpash. (30 chinilla)."
+    shoulders:
+      title:
+        es: "Hombros"
+        kichwa: "Wamanikuna"
+      elevation_title:
+        es: "Elevación de hombros"
+        kichwa: "Wamanikunata wichiyachiy"
+      elevation_desc:
+        es: "Sube los hombros hacia las orejas, mantén 3 segundos y baja. Repite 10 veces. (50 segundos)."
+        kichwa: "Rinrinkunakama wamanikunata wichiyachina. 3 chinillata charina, kipa uriyachina. 10 kutin paktachina. (50 chinilla)."
+      circles_title:
+        es: "Círculos de hombros"
+        kichwa: "Wamanikunata muyuy"
+      circles_desc:
+        es: "Realiza 8 círculos hacia adelante y 8 hacia atrás con ambos hombros simultáneamente. (45 segundos)."
+        kichwa: "Wamanikunawan kutin kutin 8 muyuyta ñawpakman ruray, shinallatak 8 muyuyta washamanpash paktachi. (45 chinilla)."
+      cross_stretch_title:
+        es: "Estiramiento cruzado"
+        kichwa: "Chakatashpa aysana / chutana"
+      cross_stretch_desc:
+        es: "Lleve un brazo al pecho sujetándolo con la otra mano a la altura del codo. Mantén 15 segundos. Cambia de lado. (40 segundos)."
+        kichwa: "Rikramukuta shuktak makiwan charishpa, kayshuk rikrata kaskuman apay. 15 chinillata chari. Shina shuktak rikrawanpash paktachina. (40 chinilla)."
+    hands:
+      title:
+        es: "Manos"
+        kichwa: "Makikuna"
+      finger_extension_title:
+        es: "Extensión de dedos"
+        kichwa: "Maki rukakuna aysay"
+      finger_extension_desc:
+        es: "Abre completamente los dedos de ambas manos, sostén 5 seg y cierra con fuerza. Repite 10 veces. (40 segundos)."
+        kichwa: "Ishkay makikunapa rukakunata paskay, 5 chinilla charin, shinallatak rukakunata wishkapay. 10 kutin (40 chinilla)."
+      wrist_rotation_title:
+        es: "Rotación de muñecas"
+        kichwa: "Makimukunata muyuriy"
+      wrist_rotation_desc:
+        es: "Realiza 10 círculos en sentido horario y antihorario con ambas muñecas. (35 segundos)."
+        kichwa: "Ishkay makimukukunawan, 10 muyuriyta alliman ruray, shinallatak tikraymanpash (35 chinilla)."
+      finger_opposition_title:
+        es: "Oposición de dedos"
+        kichwa: "Rukakunapura tupanakuy"
+      finger_opposition_desc:
+        es: "Toca cada dedo con el pulgar de la misma mano. Repite 3 veces. (30 segundos)."
+        kichwa: "Sapan sapan rukakunata rukawan hapin. Kutin kutin rurana kan (30 chinilla)."
+    back:
+      title:
+        es: "Espalda"
+        kichwa: "Washa"
+      arch_round_title:
+        es: "Arqueo y redondeo dorsal"
+        kichwa: "Washatullu winkuy"
+      arch_round_desc:
+        es: "Al inhalar, arquea la espalda hacia adelante y saca el pecho. Mantén 5 seg. Al exhalar, redondea la espalda hacia atrás y mete el ombligo. Repite 5 veces. (60 segundos)."
+        kichwa: "Samayta aysanapakka, washata ñawpakman winku tukun, shinallatak kaskuta ñawpakman surkun. 5 chinillata chari. Samayta shitankapakka, washa tulluta mashaman winkuyana, puputa yaykuchinami. 5 kutin tikra ruray (60 chinilla)."
+      trunk_rotation_title:
+        es: "Rotación de tronco"
+        kichwa: "Ukku kuyuriy"
+      trunk_rotation_desc:
+        es: "Sentado, gira el torso hacia cada lado sujetando el respaldo de la silla. Mantén 5 seg. Repite 10 veces. (45 segundos)."
+        kichwa: "Tiyarishka, tiyarinawashapi sinchi tiyarishpa, ukkuta alliman llukimanpash tikray. 5 chinillata paktachi. Kutin 10 kutin paktachi (45 chinilla)."
+    hips:
+      title:
+        es: "Cadera"
+        kichwa: "Kankik"
+      circles_title:
+        es: "Círculos de cadera"
+        kichwa: "Kankikpa muyuy"
+      circles_desc:
+        es: "Manos en la cadera y realiza círculos por cada lado. Repite 10 veces."
+        kichwa: "Kankipi makikunata churashka, ishkay kuskata, shinallatak sapan kuskata rumpata ruran. Kutin 10 kutin ruray."
+      lateral_lunge_title:
+        es: "Estocada lateral"
+        kichwa: "Estocada lateral"
+      lateral_lunge_desc:
+        es: "Da un paso grande hacia el lado, flexiona esa rodilla y estira la opuesta. Repite 10 veces por lado."
+        kichwa: "Chankata paskay, kipaka, shuk kunkurita alliman kuyuri, shuktakka aysay. 10 kutin sapan kuskaman paktachi."
+      standing_hip_title:
+        es: "Flexión de cadera de pie"
+        kichwa: "Shayashka kankikta wichiyachiy"
+      standing_hip_desc:
+        es: "Levanta la rodilla hacia el pecho, sostén 5 seg y baja. Alterna rodillas. Repite 10 veces."
+        kichwa: "Kunkurita kaskukaman wichiyachi, 5 chinillata chari uriyachipash. Shina shuktak kunkuriwanpash. 10 kutin paktachi."
+    legs:
+      title:
+        es: "Piernas"
+        kichwa: "Chankakuna"
+      heel_raise_title:
+        es: "Elevación de talones"
+        kichwa: "Chakiwashakunata wichiyachiy"
+      heel_raise_desc:
+        es: "Levántate sobre las puntas de los pies, mantén 2 seg, baja lentamente. Repite 10 veces. (60 segundos)."
+        kichwa: "Chakikunapa rukakunahawa hatari. 2 chinillata chari, kipaka allimanta uriyayay. 10 kutin paktachi. (60 chinilla)."
+      ankle_rotation_title:
+        es: "Rotación de tobillos"
+        kichwa: "Sampikunata kuyuriy"
+      ankle_rotation_desc:
+        es: "Levanta un pie del suelo y dibuja círculos con el tobillo. Repite 10 círculos en cada dirección. Cambia de pie."
+        kichwa: "Shuk chakita wichiyachi, kipaka rumpakunata sampiwan shuyuy. 10 kutin alliman llukimanpash paktachi. Shina shuktak sampiwanpash."
+    vision:
+      title:
+        es: "Vista"
+        kichwa: "Ñawi"
+      rule_20_20_20_title:
+        es: "Regla 20-20-20"
+        kichwa: "20-20-20 kamachiy"
+      rule_20_20_20_desc:
+        es: "Ejercicio visual para aliviar la fatiga ocular, los dolores de cabeza y el síndrome del ojo seco."
+        kichwa: "Ñawi lulun ama shaykuchun. Shinallatak uma nanay, ñawi chakishka unkuy ama kuchun ruraykuna."
+      step1:
+        es: "Cada 20 minutos deja de mirar una pantalla."
+        kichwa: "20 chiniku pachapi shuk rikuchiyta rikunata saki."
+      step2:
+        es: "Mira durante 20 segundos un objeto a 6 metros de distancia."
+        kichwa: "Shuk rikunata 20 chinilla pachapi, 6 tatki kuskapi rikuy."
+      step3:
+        es: "Parpadea varias veces para hidratar los ojos."
+        kichwa: "Ñawilulun kutin kutin sipushpa paktachi."
+    breathing:
+      title:
+        es: "Respiración consciente"
+        kichwa: "Kashkata samay aysay"
+      technique_4_7_8_title:
+        es: "Técnica 4-7-8"
+        kichwa: "4-7-8 kamachiy paktay"
+      step1:
+        es: "Siéntate cómodamente."
+        kichwa: "Allita tiyari."
+      step2:
+        es: "Inhala por 4 segundos, retén 7 segundos y exhala por 8 segundos. Repite 4 a 6 veces para reducir el estrés y la tensión. (5 minutos)."
+        kichwa: "4 chinillata samayta aysay, 7 chinillata chari. Kipaka 8 chinillapi samayta shitay. Shina 4, 6 kutin paktachi. Shinallami allí kayta paktanki. (5 chiniku)."
+
+  reminders:
+    title:
+      es: "RECORDATORIOS"
+      kichwa: "YUYARIYKUNA"
+    active_notifications:
+      es: "Notificaciones activas"
+      kichwa: "Allí willaykuna"
+    active_breaks_title:
+      es: "Pausas activas"
+      kichwa: "Alli samariykuna"
+    frequency_label:
+      es: "Frecuencia:"
+      kichwa: "Kutin kutin:"
+    daily_exercise_title:
+      es: "Ejercicio diario"
+      kichwa: "Punchapi rurariy"
+    time_label:
+      es: "Hora:"
+      kichwa: "Saylla:"
+    night_silence:
+      es: "Modo Silencio nocturno"
+      kichwa: "Tuta chulun pacha"
+    night_silence_hours:
+      es: "20:00-06:00 sin notificaciones"
+      kichwa: "20:00-06:00 nima willay tiyana kan"
+    motivational_message:
+      es: "Tu bienestar es la base de tu enseñanza. ¡Cuídate hoy!"
+      kichwa: "Kikinpa allí kanami yachachinapi allí kana. Chaymanta kunanllatak rikurayay"
+
+  tips:
+    title:
+      es: "Consejos"
+      kichwa: "Kunaykuna"
+    preventive_title:
+      es: "Consejos preventivos"
+      kichwa: "Ñawpa kunaykuna"
+    adjust_chair_desk:
+      es: "Ajusta tu silla y escritorio."
+      kichwa: "Kikinpa tiyarinata patakutapash allichi."
+    adjust_chair_desk_desc:
+      es: "Pantalla a la altura de los ojos, espalda apoyada, codos a 90° y pies firmes en el suelo."
+      kichwa: "Antanikipa rikuchiy rikuna kuskapi, washa ukku tiyarinapi allí tankarishka, rikramuku 90° kuskapi, chakikuna allí allpapi kana."
+    blackboard_writing:
+      es: "Escritura en pizarra."
+      kichwa: "Killkanapirkapi killkay."
+    blackboard_writing_desc:
+      es: "Evita mantener los brazos elevados por mucho tiempo y alterna los brazos al escribir."
+      kichwa: "Rikrakunata mana yalli pacha hawapi charina, killkanapi shuktak shuktak rikrakunawan killkana."
+    laptop_ergonomics:
+      es: "Laptop: La inversión ergonómica."
+      kichwa: "Antaniki: allillamkayachayta paktana."
+    laptop_ergonomics_desc:
+      es: "Eleva la pantalla y utiliza teclado y ratón externos para mantener una postura adecuada."
+      kichwa: "Antanikipa rikuchiyta hawaman churana, shinallatak kancha killkanata ukuchatapash ushana, shinami allí tiyarinata paktachina."
+    vary_tasks:
+      es: "Varía tus tareas."
+      kichwa: "Shuktak shuktak kikinpa ruraykunata ruray."
+    vary_tasks_desc:
+      es: "Alterna entre escribir, usar la computadora, leer y actividades de pie para evitar sobrecarga muscular."
+      kichwa: "Maypika killkay, maypika antanikita ushay, ñawiri, shinallatak shayashpa ruraykunata rurana, shinami ukkupa aychata mana shaykuchina."
+    golden_rule:
+      es: "Regla de oro: Alterna posturas."
+      kichwa: "Kuri yuyay: Shuktaklaya shayariy tiyariy paktachi."
+    golden_rule_30:
+      es: "30 minutos de pie → siéntate 5 minutos."
+      kichwa: "30 chiniku shayay, 5 chiniku tiyari."
+    golden_rule_45:
+      es: "45 minutos sentado → levántate y camina."
+      kichwa: "45 chiniku tiyarishka, hatari puriypash."
+    golden_rule_note:
+      es: "No existe la \"postura perfecta\", existe la variación."
+      kichwa: "Mana \"allí kanalla tiyan\" yalli kuyuriymi tiyan."
+    footwear:
+      es: "Cuida tu calzado."
+      kichwa: "Ushutata rikuriyana."
+    footwear_desc:
+      es: "Utiliza zapatos cómodos con soporte y amortiguación. Evita tacones altos o suelas completamente planas y duras."
+      kichwa: "Pakta ñutulla ushatakunata ushan. Hatunyachik, shinallatak pampa, sinchi ushutata mana ushana."
+
+  mental_health:
+    title:
+      es: "SALUD MENTAL - EMOCIONES"
+      kichwa: "ÑUKTU ALLI KAY"
+    recognize_care_title:
+      es: "Reconoce y cuida tus emociones."
+      kichwa: "Alli kakta yachan, rikurayanpash."
+    recognize_care_desc:
+      es: "Identificar cómo te sientes es el primer paso para gestionar el estrés y mantener tu bienestar emocional como docente."
+      kichwa: "Kallaripika imashina kakta riksikchayan, shinami yachachik allí kanata paktan."
+    tap_emotion:
+      es: "Toca la emoción que sientes en este momento:"
+      kichwa: "Kay pachapi imashina kakta riksikchayay."
+    anger:
+      name:
+        es: "Enojo - Soy RumiRumi"
+        kichwa: "Piñariy – Rumimi kani"
+      what_is:
+        es: "Emoción intensa que aparece cuando sentimos injusticia, frustración o exceso de presión."
+        kichwa: "Mana pakta kashkata rikushpa, llakinakuy hapin, shunku nanaypash rikurin."
+      causes_title:
+        es: "Causas frecuentes"
+        kichwa: "Kutin kutin kaykunamanta"
+      cause_disrespect:
+        es: "Falta de respeto por parte del estudiante o personal educativo."
+        kichwa: "Yachakukmanta, manakpika yachanawasipa pushakmanta kamik tiyakpi."
+      cause_overload:
+        es: "Sobrecarga laboral."
+        kichwa: "Yallitak llamkachikpi."
+      cause_unheard:
+        es: "No sentirse escuchado."
+        kichwa: "Tapushkata, rimashkatapash mana uyakpi."
+      what_to_do_title:
+        es: "¿Qué puedo hacer?"
+        kichwa: "Imatatak rurana kani"
+      action_breathing:
+        es: "Respiración 4-7-8: Inhala 4 s, retén 7, exhala 8 = Calma el sistema nervioso."
+        kichwa: "Samay 4-7-8: aysay 4 chinilla, chari 7 chinilla, shitay 8 shinilla = allí kanata pantan."
+      action_leave:
+        es: "Sal un momento del aula."
+        kichwa: "Yachana ukumanta asha pachapi llukshi."
+      action_write:
+        es: "Escribe lo que sientes."
+        kichwa: "Imashina kashkata killkay."
+      action_pause:
+        es: "Espera antes de responder."
+        kichwa: "Manarak kutichikpi shuyana."
+      affirmation:
+        es: "Reconocer mi enojo es sabiduría. Puedo responder, no reaccionar."
+        kichwa: "Ñukapa piñayta riksinaka, yachaymi, mana piñarinataka rikuchini, ashtawanka kutichinata ushanimi."
+    sadness:
+      name:
+        es: "Tristeza - Soy Yaku"
+        kichwa: "Llakiy - Yakumi kani"
+      what_is:
+        es: "Emoción que surge cuando nos sentimos desmotivados, poco valorados o emocionalmente agotados."
+        kichwa: "Yachachinapi yachakukman yachachinawan mana paktakpi, shaykushka, asha chanishka, kawsaymunaypash, maykan pachakunapika llakiriykunami hapin."
+      signals_title:
+        es: "Señales de tristeza"
+        kichwa: "Llakilla kashkata rikuna"
+      signal_no_results:
+        es: "Sensación de no ver resultados."
+        kichwa: "Mana nima paktashkata rikuna."
+      signal_burnout:
+        es: "Cansancio emocional."
+        kichwa: "Shaykushkata rikuchina."
+      signal_misunderstood:
+        es: "Sentirse incomprendido."
+        kichwa: "Mana nimata chanichishka."
+      strategies_title:
+        es: "Estrategias de apoyo"
+        kichwa: "Imashinalla yanapana"
+      strategy_talk:
+        es: "Habla con alguien de confianza y expresa tus emociones."
+        kichwa: "Maykankunawan riman, kikin yuyashkakunatapash nin."
+      strategy_achievement:
+        es: "Busca un pequeño logro del día."
+        kichwa: "Shuk uchilla paktayta maskan."
+      strategy_walk:
+        es: "Camina al aire libre. La luz natural mejora el estado de ánimo."
+        kichwa: "Purinlla, achik intika kikin kashkata kushichin."
+      affirmation:
+        es: "Mi tristeza merece ser entendida."
+        kichwa: "Ñukapa llakinakuytaka rikunami."
+    joy:
+      name:
+        es: "Alegría - Soy Inti"
+        kichwa: "Kushikuy - Intimi kani"
+      what_is:
+        es: "Emoción que nace al experimentar satisfacción, conexión y propósito en la enseñanza."
+        kichwa: "Yachachinapi yachakukkunaman yachayta yachachishkamanta yachachikka achka kushikuytami paktan."
+      sources_title:
+        es: "Fuentes de alegría"
+        kichwa: "Kushikuykuna"
+      source_student:
+        es: "Ver aprender a un estudiante."
+        kichwa: "Shuk yachakuk yachakchayachun rikuna."
+      source_positive:
+        es: "Compartir momentos positivos."
+        kichwa: "Alli pachakunata punchanta karana."
+      source_recognition:
+        es: "Reconocimiento sincero de colegas o familia."
+        kichwa: "Yachachik mashikuna shinallatak ayllukunapash shunkumanta yupaychan."
+      affirmation:
+        es: "Cada pequeño logro merece celebrarse."
+        kichwa: "Uchilla paktaykunapash kushikushpami kushikuyta rurana kan."
+    fear:
+      name:
+        es: "Miedo - Soy tutam"
+        kichwa: "Manchay - tutammi kani"
+      what_is:
+        es: "Emoción que aparece ante situaciones nuevas, incertidumbre o temor al fracaso."
+        kichwa: "Mushuk rikurikkunamanta yuyariy, shinallatak pantanamanta manchay."
+      fears_title:
+        es: "Miedos frecuentes"
+        kichwa: "Kutin kutin manchaykuna"
+      fear_not_enough:
+        es: "No ser suficiente."
+        kichwa: "Mana pakta kana."
+      fear_criticism:
+        es: "Recibir críticas."
+        kichwa: "Kamiykunata chaskina."
+      fear_job_loss:
+        es: "Perder el empleo."
+        kichwa: "Llamkayta ña mana charina."
+      fear_technology:
+        es: "Cambios o nuevas tecnologías."
+        kichwa: "Mushuk antanikiykunamanta."
+      what_to_do_title:
+        es: "¿Qué puedo hacer?"
+        kichwa: "Imatatak rurana kani"
+      action_analyze:
+        es: "Analiza si el miedo es real o imaginario. Pregúntate: ¿Qué es lo peor que podría pasar?"
+        kichwa: "Manchayka kakchu, yuyayllachu, kuskipay. Tapupay: Imatak, ashtawan mana allí tukuna karka."
+      action_small_steps:
+        es: "Avanza con pequeños pasos."
+        kichwa: "Allimanta purishpalla rin."
+      action_remember:
+        es: "Recuerda tus logros. El miedo hace olvidar las veces que superaste retos similares."
+        kichwa: "Paktashkakunata yuyari. Manchayka allí paktashkakunata kunkachinlla."
+      affirmation:
+        es: "El miedo no me detiene. Soy capaz y valiente."
+        kichwa: "Manchayka mana kasi kachun sakin. Tukuytami ushani, mana manchayta charinichu."
+    anxiety:
+      name:
+        es: "Ansiedad – Soy Chaskym"
+        kichwa: "Yuyaypikana - chaskynmi kani"
+      what_is:
+        es: "Emoción que surge cuando las preocupaciones y exigencias parecen superar nuestros recursos."
+        kichwa: "Kayka llakiyuyaypi kakpimi rikurin."
+      what_to_do_title:
+        es: "¿Qué puedo hacer?"
+        kichwa: "Imatatak rurana kani"
+      action_breathe:
+        es: "Respirar profundo."
+        kichwa: "Sinchi samayta aysana."
+      action_prioritize:
+        es: "Prioriza lo urgente e importante."
+        kichwa: "Alli kakta, uktlla ruranata rikuy."
+      action_5_4_3_2_1:
+        es: "Practica la Técnica 5-4-3-2-1: identifica 5 cosas que ves, 4 que tocas, 3 que escuchas, 2 que hueles y 1 que saboreas. Ayuda a reducir la ansiedad al enfocar tu atención en el presente."
+        kichwa: "Kayta paktachina kanki 5-4-3-2-1: 5 rikushkata rikuchiy, 4 hapishkata, 3 uyashkata, 2 muktishkata, 1 mishkiyachiktapash. Kunanpi yuyarina kanki, ama nima yanka yuyay tiyachun."
+      affirmation:
+        es: "Tómalo con calma. Tú puedes."
+        kichwa: "Allimanta hapi, kikin ushankimi."
+
+  media:
+    music_title:
+      es: "Música para relajarte"
+      kichwa: "Allikanapak takiy"
+    playlist_title:
+      es: "Lista de pistas"
+      kichwa: "Takiykuna"
+    track_forest:
+      es: "Sonidos del Bosque"
+      kichwa: "Sachapa uyariy"
+    track_rain:
+      es: "Lluvia suave"
+      kichwa: "Allimanta tamyay"
+    track_energizing:
+      es: "Música energizante"
+      kichwa: "Kawsayta kuk takiy"
+    videos_title:
+      es: "Videos recomendados"
+      kichwa: "Rikunalla rikuchiykuna"
+    video_ergonomics:
+      es: "Ergonomía para docentes: postura correcta"
+      kichwa: "Yachachikpak allillamkayachay: Alli shayana, tiyarinapash."
+    video_yoga:
+      es: "Yoga de 7 minutos: relajación docente"
+      kichwa: "Ukku, huma, samay tantachiyta (yoga) yachachik 7 chinikupi alli kana."
+    closing_reminder:
+      es: "Recuerda: reconocer tus emociones es el primer paso para cuidar tu bienestar."
+      kichwa: "Yuyari: shuk nikipika, allí kayta rikuriyanapakka, ukku kutichiyta yachakchayana."
+
+  profile:
+    edit_profile:
+      es: "Editar perfil"
+      kichwa: "Atiklla killkaykuna"
+    teacher_profile:
+      es: "Mi perfil docente"
+      kichwa: "Yachachikpak rikuchi"
+    teacher:
+      es: "Docente"
+      kichwa: "Yachachik"
+    name:
+      es: "Nombre"
+      kichwa: "Shuti"
+    choose_avatar:
+      es: "Elige tu avatar"
+      kichwa: "Kikinpa rikchayta akllay"
+    save_profile:
+      es: "Guardar perfil"
+      kichwa: "Rikuchikunata wakaychina"
+    cancel:
+      es: "Cancelar"
+      kichwa: "Tukuchina"
+    name_placeholder:
+      es: "¿Cómo quieres que aparezca tu nombre?"
+      kichwa: "Shutiykita imashina rikuchichun munanki?"
+    good_morning:
+      es: "¡Buenos días!"
+      kichwa: "Alli puncha"
+    good_afternoon:
+      es: "¡Buenas tardes!"
+      kichwa: "Alli chishi"
+    good_evening:
+      es: "¡Buenas noches!"
+      kichwa: "Alli tuta"
+
+  vocabulary:
+    body:
+      es: "Cuerpo"
+      kichwa: "Aycha"
+    mind:
+      es: "Mente"
+      kichwa: "Yuyay"
+    learning:
+      es: "Aprendizaje"
+      kichwa: "Yachana"
+    physical_wellbeing:
+      es: "Bienestar físico"
+      kichwa: "Alli Kana"
+    mental_wellbeing:
+      es: "Bienestar mental"
+      kichwa: "Alli Yuyay"
+    breaks:
+      es: "Pausas"
+      kichwa: "Samaykuna"

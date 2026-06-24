@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\crist\\\\OneDrive\\\\Desktop\\\\ErgoKawsay\" -Recurse -Directory)",
+      "Bash(Select-Object -ExpandProperty FullName)",
+      "Bash(Sort-Object)",
+      "Bash(flutter analyze *)",
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Users\\\\crist\\\\OneDrive\\\\Desktop\\\\ErgoKawsay\\\\assets\" -Recurse | ForEach-Object { if \\($_.PSIsContainer\\) { \"DIR: \" + $_.FullName } else { $_.FullName } } | Sort-Object)",
+      "Bash(dir C:\\\\Users\\\\crist\\\\OneDrive\\\\Desktop\\\\ErgoKawsay\\\\assets *)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\crist\\\\OneDrive\\\\Desktop\\\\ErgoKawsay\\\\assets\" -Recurse -File)",
+      "Bash(flutter build *)",
+      "Bash(flutter run *)",
+      "Bash(flutter devices *)",
+      "Bash(python3 *)"
+    ]
+  }
+}
